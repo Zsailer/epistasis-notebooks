@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+emcee
+ipywidgets
+gpmap=0.2
+epistasis=0.2.1
