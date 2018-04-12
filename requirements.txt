@@ -4,7 +4,5 @@ matplotlib
 pandas
 scikit-learn
 emcee
-h5py
-ipywidgets
-gpmap==0.2.1
-epistasis==0.2.1
+gpmap==0.4.1
+epistasis==0.6.1
